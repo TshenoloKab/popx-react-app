@@ -15,14 +15,5 @@ PopX is a simple React-based web application that provides user authentication f
 
 ---
 
-## Folder Structure
-/src
-├── /assets
-│ └── pic20.jpg 
-├── /pages
-│ ├── Welcome.jsx
-│ ├── Login.jsx
-│ ├── Signup.jsx
-│ └── AccountSettings.jsx
-├── App.jsx 
-└── index.css 
+## Link Demo
+(https://popx-react-app-edu.netlify.app/)
